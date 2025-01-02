@@ -1,26 +1,121 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ServerLibrary/ServerLibrary.csproj": {}
+    "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\ServerLibrary.csproj": {}
   },
   "projects": {
-    "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ServerLibrary/ServerLibrary.csproj": {
+    "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\ServerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ServerLibrary/ServerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\ServerLibrary.csproj",
         "projectName": "ServerLibrary",
-        "projectPath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ServerLibrary/ServerLibrary.csproj",
-        "packagesPath": "/Users/nunolemos/.nuget/packages/",
-        "outputPath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ServerLibrary/obj/",
+        "projectPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\ServerLibrary.csproj",
+        "packagesPath": "C:\\Users\\nuno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nunolemos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cns-ados-20/tfs/CNS Connect/_packaging/cb-components-feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\SharedLibrary.csproj": {
+                "projectPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\SharedLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\SharedLibrary.csproj",
+        "projectName": "SharedLibrary",
+        "projectPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\SharedLibrary.csproj",
+        "packagesPath": "C:\\Users\\nuno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cns-ados-20/tfs/CNS Connect/_packaging/cb-components-feed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -53,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/nunolemos/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
