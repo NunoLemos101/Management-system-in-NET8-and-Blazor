@@ -1,0 +1,12 @@
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/bin/Debug/net8.0/SharedLibrary.deps.json
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/bin/Debug/net8.0/SharedLibrary.dll
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/bin/Debug/net8.0/SharedLibrary.pdb
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/SharedLibrary.AssemblyInfo.cs
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/SharedLibrary.sourcelink.json
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/SharedLibrary.dll
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/refint/SharedLibrary.dll
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/SharedLibrary.pdb
+/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/ref/SharedLibrary.dll
