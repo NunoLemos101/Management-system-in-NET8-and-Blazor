@@ -10,3 +10,16 @@
 /Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/refint/SharedLibrary.dll
 /Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/SharedLibrary.pdb
 /Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/Debug/net8.0/ref/SharedLibrary.dll
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\bin\Debug\net8.0\SharedLibrary.deps.json
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.sourcelink.json
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
+C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.AssemblyReference.cache

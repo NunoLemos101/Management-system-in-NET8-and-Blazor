@@ -1,6 +1,3 @@
 ﻿namespace Shared.Dtos;
 
-public class Login
-{
-    
-}
+public class Login : AccountBase { }

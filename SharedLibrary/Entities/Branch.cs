@@ -1,6 +1,6 @@
 ﻿namespace Shared.Entities;
 
-public class Branch
+public class Branch : BaseEntity
 {
     
 }

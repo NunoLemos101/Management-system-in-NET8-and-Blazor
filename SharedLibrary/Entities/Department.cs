@@ -1,6 +1,6 @@
 ﻿namespace Shared.Entities;
 
-public class Department
+public class Department : BaseEntity
 {
     
 }

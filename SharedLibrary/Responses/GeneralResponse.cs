@@ -1,6 +1,3 @@
 ﻿namespace Shared.Responses;
 
-public class GeneralResponse
-{
-    
-}
+public record GeneralResponse(bool Flag, string Message = null!);
