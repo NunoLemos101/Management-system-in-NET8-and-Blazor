@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zN4YuWQxCMro4s+L050Lc9cSU/yfNH7AmEl4LLT+PVE=",
+  "Hash": "NORm9bOHVSgpKb9D/pBy8tLTgxKS3CDUx+ObicnqN1o=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,25 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/AutoMapper.wasm",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "WasmResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\obj\\Debug\\net8.0\\webcil\\AutoMapper.wasm"
-    },
     {
       "Identity": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "Client",
@@ -5430,25 +5411,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Channels.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\obj\\Debug\\net8.0\\compressed\\ea4zwcoca8.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/AutoMapper.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm"
     },
     {
       "Identity": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Client\\obj\\Debug\\net8.0\\compressed\\eiav1usmwm.gz",

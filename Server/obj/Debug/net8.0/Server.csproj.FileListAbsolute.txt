@@ -34,7 +34,6 @@ C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Server\obj\Debu
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Server\obj\Debug\net8.0\Server.pdb
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Server\obj\Debug\net8.0\ref\Server.dll
-C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Server\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Server\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Server\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Server\bin\Debug\net8.0\BCrypt.Net-Next.dll

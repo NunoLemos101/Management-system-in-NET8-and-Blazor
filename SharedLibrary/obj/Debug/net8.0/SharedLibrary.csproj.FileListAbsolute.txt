@@ -22,4 +22,3 @@ C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\o
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
-C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.AssemblyReference.cache

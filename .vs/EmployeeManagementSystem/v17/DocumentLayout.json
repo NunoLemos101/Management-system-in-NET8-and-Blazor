@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\Data\\Migrations\\20250102165956_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerLibrary\\Data\\Migrations\\20250102165956_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\Data\\Migrations\\20250103113427_AddTokenInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerLibrary\\Data\\Migrations\\20250103113427_AddTokenInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\Data\\Migrations\\20250103072315_AddRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerLibrary\\Data\\Migrations\\20250103072315_AddRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA70A2F-3073-4EEE-ACFA-81DA665DDEAE}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\nuno\\riderprojects\\management-system-in-net8-and-blazor\\serverlibrary\\data\\migrations\\20250102165956_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA70A2F-3073-4EEE-ACFA-81DA665DDEAE}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\migrations\\20250102165956_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEA56071-0071-42CC-B87A-7ACE9D49FCB7}|Server\\Server.csproj|c:\\users\\nuno\\riderprojects\\management-system-in-net8-and-blazor\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -28,24 +36,49 @@
         },
         {
           "DockedWidth": 304,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250103113427_AddTokenInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\Data\\Migrations\\20250103113427_AddTokenInfo.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20250103113427_AddTokenInfo.cs",
+              "ToolTip": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\Data\\Migrations\\20250103113427_AddTokenInfo.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20250103113427_AddTokenInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:34:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Server",
+              "Title": "20250103072315_AddRoles.cs",
+              "DocumentMoniker": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\Data\\Migrations\\20250103072315_AddRoles.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20250103072315_AddRoles.cs",
+              "ToolTip": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\Data\\Migrations\\20250103072315_AddRoles.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20250103072315_AddRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:23:15.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.csproj",
               "DocumentMoniker": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Server\\Server.csproj",
               "RelativeDocumentMoniker": "Server\\Server.csproj",
               "ToolTip": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\Server\\Server.csproj",
               "RelativeToolTip": "Server\\Server.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-02T17:00:14.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T17:00:14.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20250102165956_First.cs",
               "DocumentMoniker": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ServerLibrary\\Data\\Migrations\\20250102165956_First.cs",
               "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20250102165956_First.cs",
@@ -55,6 +88,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T16:59:56.63Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",

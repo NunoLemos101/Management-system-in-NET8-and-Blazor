@@ -2080,8 +2080,3 @@ C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Client\obj\Debu
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Client\obj\Debug\net8.0\compressed\7f2yuo0m6m.gz
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Client\obj\Debug\net8.0\compressed\bulu5sx1mn.gz
 C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Client\obj\Debug\net8.0\compressed\hb98k8mf04.gz
-C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
-C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm.gz
-C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Client\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
-C:\Users\nuno\RiderProjects\Management-system-in-NET8-and-Blazor\Client\obj\Debug\net8.0\compressed\ea4zwcoca8.gz

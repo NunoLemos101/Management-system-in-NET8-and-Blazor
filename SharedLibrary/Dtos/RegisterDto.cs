@@ -2,7 +2,7 @@
 
 namespace Shared.Dtos;
 
-public class Register : AccountBase
+public class RegisterDto : AccountBase
 {
     [Required]
     [MinLength(8)]
