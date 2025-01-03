@@ -5,6 +5,7 @@ namespace ServerLibrary.Repositories.Contracts;
 
 public interface IUserAccount
 {
-    Task<GeneralResponse> CreateAsync(Register user);
-    Task<LoginResponse> SignInAsync(Login user);
+    Task<GeneralResponse> CreateAsync(RegisterDto user);
+    Task<LoginResponse> SignInAsync(LoginDto user);
+    Task<LoginResponse> RefreshJwtTokenAsync(RefreshTokenDto token);
 }
