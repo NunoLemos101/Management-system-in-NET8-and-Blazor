@@ -45,10 +45,20 @@ public class DatabaseRepository(AppDbContext dbContext) : IDatabaseRepository
         return await dbContext.RefreshTokens.FirstOrDefaultAsync(refreshToken => refreshToken.Token!.Equals(token.Token));
     }
     
+    public async Task<RefreshToken?> FindRefreshToken(ApplicationUser user)
+    {
+        return await dbContext.RefreshTokens.FirstOrDefaultAsync(refreshToken => refreshToken.UserId == user.Id);
+    }
+    
     public async Task<RefreshToken> UpdateRefreshToken(RefreshToken refreshToken, string newToken)
     {
         refreshToken.Token = newToken;
         await dbContext.SaveChangesAsync();
         return refreshToken;
+    }
+    
+    public async Task SaveChanges()
+    {
+        await dbContext.SaveChangesAsync();
     }
 }

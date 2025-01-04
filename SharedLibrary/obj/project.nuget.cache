@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TT1zSLdvr3oJ9fRM22pDTdI3VjCydeFCgslJPthFqAnreDuTRh+7uGQUapm9HFKwYw279z6OsXKhpU6QPZfgoQ==",
+  "dgSpecHash": "fePNp2AWAfGnRY9sLJNMftM0hWDO9fI2yWiYPRioUXaJQ60zPD50Kn3nYcXkNnmc+3wCrP0pRJpRInD62VKvsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\SharedLibrary.csproj",
+  "projectFilePath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/SharedLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

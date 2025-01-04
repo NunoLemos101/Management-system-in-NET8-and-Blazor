@@ -8,28 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nuno\\.nuget\\packages\\": {}
+    "/Users/nunolemos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\SharedLibrary.csproj",
+      "projectUniqueName": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/SharedLibrary.csproj",
       "projectName": "SharedLibrary",
-      "projectPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\SharedLibrary.csproj",
-      "packagesPath": "C:\\Users\\nuno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\SharedLibrary\\obj\\",
+      "projectPath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/SharedLibrary.csproj",
+      "packagesPath": "/Users/nunolemos/.nuget/packages/",
+      "outputPath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nunolemos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://cns-ados-20/tfs/CNS Connect/_packaging/cb-components-feed/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -62,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/nunolemos/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

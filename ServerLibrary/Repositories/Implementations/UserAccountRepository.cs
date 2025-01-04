@@ -80,8 +80,21 @@ public class UserAccountRepository(IOptions<JwtSection> config, IDatabaseReposit
         if (systemRole is null) return new LoginResponse(false, "System role not found.");
         
         var jwtToken = GenerateJwtToken(applicationUser, systemRole.Name!);
-        var refreshToken = GenerateRefreshToken();
-        return new LoginResponse(true, "Login successful.", jwtToken, refreshToken);
+        var refreshTokenString = GenerateRefreshToken();
+        
+        var refreshToken = await databaseRepository.FindRefreshToken(applicationUser);
+
+        if (refreshToken is not null)
+        {
+            refreshToken.Token = refreshTokenString;
+            await databaseRepository.SaveChanges();
+        }
+        else
+        {
+            await databaseRepository.AddToDatabase(new RefreshToken() { Token = refreshTokenString, UserId = applicationUser.Id });
+        }
+        
+        return new LoginResponse(true, "Login successful.", jwtToken, refreshTokenString);
     }
 
     public async Task<LoginResponse> RefreshJwtTokenAsync(RefreshTokenDto tokenDto)

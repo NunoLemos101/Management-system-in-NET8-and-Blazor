@@ -1,29 +1,105 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ClientLibrary\\ClientLibrary.csproj": {}
+    "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ClientLibrary/ClientLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ClientLibrary\\ClientLibrary.csproj": {
+    "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ClientLibrary/ClientLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ClientLibrary\\ClientLibrary.csproj",
+        "projectUniqueName": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ClientLibrary/ClientLibrary.csproj",
         "projectName": "ClientLibrary",
-        "projectPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ClientLibrary\\ClientLibrary.csproj",
-        "packagesPath": "C:\\Users\\nuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuno\\RiderProjects\\Management-system-in-NET8-and-Blazor\\ClientLibrary\\obj\\",
+        "projectPath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ClientLibrary/ClientLibrary.csproj",
+        "packagesPath": "/Users/nunolemos/.nuget/packages/",
+        "outputPath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nunolemos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://cns-ados-20/tfs/CNS Connect/_packaging/cb-components-feed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/SharedLibrary.csproj": {
+                "projectPath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/SharedLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21201.13, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/nunolemos/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/SharedLibrary.csproj",
+        "projectName": "SharedLibrary",
+        "projectPath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/SharedLibrary.csproj",
+        "packagesPath": "/Users/nunolemos/.nuget/packages/",
+        "outputPath": "/Users/nunolemos/RiderProjects/EmployeeManagementSystem/SharedLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nunolemos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -56,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/nunolemos/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
